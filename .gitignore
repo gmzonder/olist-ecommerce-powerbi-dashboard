@@ -1,0 +1,13 @@
+# Raw data (download from Kaggle, see README)
+archive/
+*.csv
+*.zip
+
+# Power BI temp / backup files
+~$*.pbix
+*.pbix.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
