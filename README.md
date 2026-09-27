@@ -2,6 +2,8 @@
 
 An interactive Power BI dashboard analyzing ~100k orders from **Olist**, the largest department store marketplace in Brazil (2016–2018). It covers revenue, order volume, delivery time, product categories, payment methods and geographic distribution.
 
+![Dashboard preview](images/dashboard.png)
+
 ## Dataset
 
 - **Source:** [Brazilian E-Commerce Public Dataset by Olist, on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
@@ -41,6 +43,7 @@ A star schema built in Power BI with these tables:
 ```
 .
 ├── Olist Power BI Project.pbix   # Power BI report
+├── images/                       # Dashboard screenshots
 ├── README.md
 └── archive/                      # Raw CSVs (not tracked, download from Kaggle)
 ```
